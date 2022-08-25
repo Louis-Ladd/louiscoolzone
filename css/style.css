@@ -1,7 +1,12 @@
 *{
     font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
-
+.page{
+    background-color: aliceblue;
+}
+.github-card{
+    align-self:center;
+}
 p {
     text-align: center;
 }
