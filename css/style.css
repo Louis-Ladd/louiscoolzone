@@ -2,12 +2,23 @@
     font-family: "Comic Sans MS", "Comic Sans", cursive;
 }
 .page{
-    background-color: aliceblue;
+    border-radius: 25px;
+    background-color: rgb(255, 217, 240);
+    border-style: solid;
+    border-color: rgb(32, 32, 32);
+    border-width: 5px;
+    margin: 5%;
 }
 .github-container{
-    position: relative;
     display: flex;
     justify-content: center;
+    min-width: 80%;
+    margin-bottom: 0%;
+}
+.itchio-container{
+    display: flex;
+    justify-content: center;
+    margin-bottom: 5%;
 }
 p {
     text-align: center;
